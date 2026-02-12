@@ -176,6 +176,3 @@ This dashboard helps Dare Careers to:
 - Star Schema Data Modelling
 
 ---
-
-## Author
-Evans Ankomah
