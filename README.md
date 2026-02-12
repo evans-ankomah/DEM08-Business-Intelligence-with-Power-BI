@@ -99,6 +99,8 @@ Major metrics implemented include:
 ## Page 1: Overall Performance Metrics
 Purpose: High-level overview of learner outcomes and engagement.
 
+![Page 1: Overall Performance Metrics Dashboard](Page_1_Performance_Metrics.png)
+
 ### Visuals
 - Bar charts:
   - Graduation Rate by Track
@@ -123,6 +125,8 @@ Purpose: High-level overview of learner outcomes and engagement.
 
 ## Page 2: Detailed Learner Insights
 Purpose: Drill-down view for trainers to see learner-level performance.
+
+![Page 2: Detailed Learner Insights Dashboard](Page_2_Learner_Insights.png)
 
 ### Visuals
 - Learner table with:
